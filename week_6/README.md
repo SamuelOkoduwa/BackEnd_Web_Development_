@@ -1,4 +1,6 @@
 #	Task
+
+***
  Set up an Express server, establish a connection to a MongoDB database, create Mongoose schemas, and implement CRUD operations for a different entity.
  
 Choose from any of the four different cases provided below. 
@@ -12,3 +14,10 @@ Choose from any of the four different cases provided below.
 
 
 NOTE: Submit your assignment along with your MongoDB connection string, it should have your username but not your password.
+
+
+***
+### The connection string
+**connection_string** = mongodb+srv://samuelokoduwa:<password>@employee.7lzoowt.mongodb.net/
+
+***
